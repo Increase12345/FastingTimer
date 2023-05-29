@@ -12,6 +12,7 @@
 		403223DF2A242AFB00725B51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 403223DE2A242AFB00725B51 /* Assets.xcassets */; };
 		403223E22A242AFB00725B51 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 403223E12A242AFB00725B51 /* Preview Assets.xcassets */; };
 		403223E92A242C1200725B51 /* ProgressRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403223E82A242C1200725B51 /* ProgressRing.swift */; };
+		403223EB2A244B9800725B51 /* FastingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403223EA2A244B9800725B51 /* FastingManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		403223DE2A242AFB00725B51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		403223E12A242AFB00725B51 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		403223E82A242C1200725B51 /* ProgressRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRing.swift; sourceTree = "<group>"; };
+		403223EA2A244B9800725B51 /* FastingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastingManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				403223DA2A242AF900725B51 /* FastingTimerApp.swift */,
 				403223DC2A242AF900725B51 /* ContentView.swift */,
+				403223EA2A244B9800725B51 /* FastingManager.swift */,
 				403223E82A242C1200725B51 /* ProgressRing.swift */,
 				403223DE2A242AFB00725B51 /* Assets.xcassets */,
 				403223E02A242AFB00725B51 /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				403223DD2A242AF900725B51 /* ContentView.swift in Sources */,
 				403223DB2A242AF900725B51 /* FastingTimerApp.swift in Sources */,
+				403223EB2A244B9800725B51 /* FastingManager.swift in Sources */,
 				403223E92A242C1200725B51 /* ProgressRing.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
